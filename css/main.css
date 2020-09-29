@@ -1,0 +1,10 @@
+
+/* Global Reset */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Main Css */
